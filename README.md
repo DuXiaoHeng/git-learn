@@ -25,11 +25,11 @@
 
   `git remote add origin https://github.com/DuXiaoHeng/webpack-learn.git` 
 
-## 6.挂起要提交的文件到缓存区
+## 6.挂起要提交的文件到暂存区
 
   `git add READMED.md`
 
-## 7.提交代码，并设置本次提交的描述
+## 7.提交代码到本地仓库，并设置本次提交的描述
 
   `git commit -m '本次提交的描述'`
 
